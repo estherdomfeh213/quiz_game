@@ -11,4 +11,5 @@ answer = input("What does CPU stand for? ")
 if answer == "central processing unit":
     print("Correct!")
 else: 
-    print("Thats incorrect")
+    print("Incorrect!")
+
